@@ -1,0 +1,1056 @@
+{
+    "nodes": [
+        {
+            "name": "采掘/冶炼",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "电力/热力/燃气/水利",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "其他新能源",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "政府/公共事务",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "非盈利机构",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "农/林/牧/渔",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "其他行业",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "智能硬件/消费电子",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "光伏",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+
+        {
+            "name": "学校/学历教育",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "保健/养生",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "石油/石化",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "环保",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "储能",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "财富管理",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "动力电池",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "通信/网络设备",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "运营商/增值服务",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "计算机硬件",
+            "category": 2,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "体育",
+            "category": 0,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "公路物流",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "跨境物流",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "装卸搬运和仓储业",
+            "category": 2,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "翻译",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "物流/仓储",
+            "category": 0,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "人力资源管理",
+            "category": 0,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "医疗器械",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "财务/审计/税务",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "其他专业服务",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "检测/认证/知识产权",
+            "category": 0,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "工程施工",
+            "category": 1,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "电子商务",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "美发",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "医疗研发外包",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "客运服务",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "港口/铁路/公路/机场",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "咨询",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "装修装饰",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "建筑材料",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "房地产中介/租凭",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "物业管理",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "房屋建筑工程",
+            "category": 0,
+            "symbolSize": 20,
+            "itemStyle": {"color":"#623BA2"}
+        },
+        {
+            "name": "银行",
+            "category": 0,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "土木工程",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "建筑工程咨询服务",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#0E6606"}
+        },
+        {
+            "name": "4S店/后市场",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "新能源汽车",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "汽车经销商",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+
+        {
+            "name": "摩托车/自行车制造",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "机械设备/机电/重工",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "仪器仪表/工业自动化",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "原材料加工/模具",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "土地与公共设施管理",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "汽车研发/制造",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+
+        {
+            "name": "印刷/包装/造纸",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "铁路/船舶/航空/航天制造",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "通用设备",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "电器机械/器材",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "金属制品",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "非金属矿物制品",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "橡胶/塑料制品",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "计算机/通信/其他电子设备",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "新材料",
+            "category": 1,
+            "symbolSize": 35,
+            "itemStyle": {"color":"#FAC858"}
+        },
+
+
+        {
+            "name": "云计算",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "其他制造业",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "食品/饮料/烟酒",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "互联网",
+            "category": 0,
+            "symbolSize": 40,
+            "itemStyle": {"color":"#5470C6"},
+          "d1": "2.5w以上",
+          "d2": "1.6w-2.5w",
+          "d3": "1.6w一下"
+        },
+        {
+            "name": "日化",
+            "category": 1,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#A23B47"}
+        },
+        {
+            "name": "服装/纺织",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "家具/家电/家居",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "电子/半导体/集成电路",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "新零售",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "家具/家居",
+            "category": 1,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "仪器仪表",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "自动化设备",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "家用电器",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "批发/零售",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "进出口贸易",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "其他消费品",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+
+        {
+            "name": "旅游/景区",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "美容/美发",
+            "category": 1,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "矿产/地质",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "回收/维修",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "家政服务",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "宠物服务",
+            "category": 1,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "物联网",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "广告/公关/会展",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "文化艺术/娱乐",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "化工",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "法律",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "新能源",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "风电",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+
+        {
+            "name": "其他金融业",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "汽车智能网联",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "学前教育",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "培训/辅导机构",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "学术/科研",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "职业培训",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "生物/制药",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "信息安全",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "医疗服务",
+            "category": 0,
+            "symbolSize": 25,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "建筑设计",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "同城货运",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+
+        {
+            "name": "医美服务",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "IVD",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "医药批发零售",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "交通/运输",
+            "category": 0,
+            "symbolSize": 25,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "即时配送",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "新闻/出版",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "美容",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+
+        {
+            "name": "运动/健身",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+
+
+        {
+            "name": "保险",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "证券/期货",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "基金",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "信托",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "互联网金融",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "投资/融资",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "汽车零部件",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "租聘/拍卖/典当/担保",
+            "category": 0,
+            "symbolSize": 15,
+            "itemStyle": {"color":"#A23B47"}
+        },
+        {
+            "name": "游戏",
+            "category": 2,
+            "symbolSize": 35,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "专用设备",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "社交网络与媒体",
+            "category": 2,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "广告营销",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "大数据",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "医疗健康",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "生活服务（O2O）",
+            "category": 2,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "汽车后市场",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "化学原料/化学制品",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "婚庆/摄影",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "其他生活服务",
+            "category": 1,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "休闲/娱乐",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "在线教育",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "企业服务",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+
+
+        {
+            "name": "机电工程",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+
+        {
+            "name": "计算机服务",
+            "category": 0,
+            "symbolSize": 35,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+
+        {
+            "name": "人工智能",
+            "category": 0,
+            "symbolSize": 40,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "房地产开发经营",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#EE6666"}
+        },
+        {
+            "name": "珠宝/首饰",
+            "category": 1,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#FAC858"}
+        },
+        {
+            "name": "广播/影视",
+            "category": 0,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#9A60B4"}
+        },
+        {
+            "name": "餐饮",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        },
+
+        {
+            "name": "酒店/名宿",
+            "category": 0,
+            "symbolSize": 10,
+            "itemStyle": {"color":"#3BA272"}
+        },
+        {
+            "name": "计算机软件",
+            "category": 2,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#5470C6"}
+        },
+        {
+            "name": "快递",
+            "category": 0,
+            "symbolSize": 5,
+            "itemStyle": {"color":"#3BA272"}
+        }
+
+    ],
+    "links":[
+        {
+            "source":"电子商务",
+            "target":"广告营销"
+        },
+        {
+            "source":"新材料",
+            "target":"医疗器械"
+        },
+        {
+            "source":"电子商务",
+            "target":"快递"
+        },
+        {
+            "source":"智能硬件",
+            "target":"消费电子"
+        },
+        {
+            "source":"房屋建筑工程",
+            "target":"房地产开发经营"
+        },
+        {
+            "source":"财务/审计/税务",
+            "target":"银行"
+        },
+        {
+            "source":"计算机硬件",
+            "target":"计算机服务"
+        },
+        {
+            "source":"其他专业服务",
+            "target":"宠物服务"
+        },
+        {
+            "source":"批发/零售",
+            "target":"其他行业"
+        },
+        {
+            "source":"汽车智能网联",
+            "target":"汽车经销商"
+        },
+        {
+            "source":"仪器仪表/工业自动化",
+            "target":"自动化设备"
+        },
+        {
+            "source":"财富管理",
+            "target":"其他金融业"
+        },
+        {
+            "source":"云计算",
+            "target":"计算机服务"
+        },
+        {
+            "source":"电子/半导体/集成电路",
+            "target":"智能硬件/消费电子"
+        },
+        {
+            "source":"新闻/出版",
+            "target":"政府/公共事务"
+        },
+        {
+            "source":"物业管理",
+            "target":"房地产开发经营"
+        },
+        {
+            "source":"餐饮",
+            "target":"其他消费品"
+        },
+        {
+            "source":"机电工程",
+            "target":"自动化设备"
+        },
+        {
+            "source":"汽车经销商",
+            "target":"汽车后市场"
+        },
+        {
+            "source":"交通运输",
+            "target":"餐饮"
+        },
+        {
+            "source":"新能源",
+            "target":"环保"
+        },
+        {
+            "source":"动力电池",
+            "target":"风电"
+        },
+        {
+            "source":"矿产/地质",
+            "target":"采掘/冶炼"
+        },
+        {
+            "source":"医药批发零售",
+            "target":"医疗研发外包"
+        },
+        {
+            "source":"物流/仓储",
+            "target":"即时配送"
+        },
+        {
+            "source":"同城货运",
+            "target":"跨境物流"
+        },
+        {
+            "source":"文化艺术/娱乐",
+            "target":"体育"
+        },
+        {
+            "source":"信息安全",
+            "target":"互联网"
+        },
+        {
+            "source":"互联网",
+            "target":"计算机软件"
+        },
+        {
+            "source":"学校/学历教育",
+            "target":"培训/辅导机构"
+        },
+        {
+            "source":"酒店/名宿",
+            "target":"旅游/景区"
+        },
+        {
+            "source":"计算机/通信/其他电子设备",
+            "target":"计算机软件"
+        },
+        {
+            "source":"石油/石化",
+            "target":"化工"
+        },
+        {
+            "source":"美容",
+            "target":"美发"
+        },
+        {
+            "source":"服装/纺织",
+            "target":"珠宝/首饰"
+        },
+        {
+            "source":"橡胶/塑料制品",
+            "target":"化学原料/化学制品"
+        },
+        {
+            "source":"通用设备",
+            "target":"专用设备"
+        },
+        {
+            "source":"建筑设计",
+            "target":"建筑材料"
+        },
+        {
+            "source":"汽车零部件",
+            "target":"4S店/后市场"
+        },
+        {
+            "source":"咨询",
+            "target":"法律"
+        },
+        {
+            "source":"医疗服务",
+            "target":"医疗器械"
+        },
+        {
+            "source":"银行",
+            "target":"保险"
+        },
+        {
+            "source":"计算机软件",
+            "target":"计算机服务"
+        }
+    ]
+}
